@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QRCodeGenerator" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Essential colors only -->
+        <item name="android:colorBackground">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/primary_dark</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Navigation bar -->
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

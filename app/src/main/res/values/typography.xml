@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base TextAppearance.App style -->
+    <style name="TextAppearance.App" parent="android:TextAppearance">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+    </style>
+
+    <!-- Typography styles for futuristic design -->
+    <style name="TextAppearance.App.Headline1">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline2">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline3">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline4">
+        <item name="android:textSize">22sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline5">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0.15</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline6">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.15</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Subtitle1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.15</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+    </style>
+
+    <style name="TextAppearance.App.Subtitle2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+    </style>
+
+    <style name="TextAppearance.App.Body1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.5</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+    </style>
+
+    <style name="TextAppearance.App.Body2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.25</item>
+        <item name="android:textColor">@color/on_surface_dark</item>
+    </style>
+
+    <style name="TextAppearance.App.Button">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textColor">@color/on_primary_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.App.Caption">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.4</item>
+        <item name="android:textColor">@color/on_surface_variant_dark</item>
+    </style>
+
+    <style name="TextAppearance.App.Overline">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0.15</item>
+        <item name="android:textColor">@color/on_surface_variant_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

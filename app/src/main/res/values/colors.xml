@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Primary Colors -->
+    <color name="primary_dark">#FF0F0F0F</color>
+    <color name="primary_variant_dark">#FF1A1A1A</color>
+    <color name="secondary_dark">#FF2D2D2D</color>
+
+    <!-- Neon Accent Colors -->
+    <color name="neon_cyan">#FF00FFFF</color>
+    <color name="neon_cyan_dark">#FF00CCCC</color>
+    <color name="neon_purple">#FF9D4EDD</color>
+    <color name="neon_purple_dark">#FF7B2CBF</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="surface_variant_dark">#FF2A2A2A</color>
+
+    <!-- Text Colors -->
+    <color name="on_primary_dark">#FFFFFFFF</color>
+    <color name="on_secondary_dark">#FFB3B3B3</color>
+    <color name="on_surface_dark">#FFE0E0E0</color>
+    <color name="on_surface_variant_dark">#FFB3B3B3</color>
+
+    <!-- Special Colors -->
+    <color name="success_green">#FF4CAF50</color>
+    <color name="error_red">#FFF44336</color>
+    <color name="warning_yellow">#FFFF9800</color>
+
+    <!-- QR Code Colors -->
+    <color name="qr_background">#FF000000</color>
+    <color name="qr_foreground">#FFFFFFFF</color>
+
+    <!-- Material Design 3 Required Colors -->
+    <color name="md_theme_primary">#FF00FFFF</color>
+    <color name="md_theme_onPrimary">#FF000000</color>
+    <color name="md_theme_primaryContainer">#FF00CCCC</color>
+    <color name="md_theme_onPrimaryContainer">#FF000000</color>
+    <color name="md_theme_secondary">#FF9D4EDD</color>
+    <color name="md_theme_onSecondary">#FF000000</color>
+    <color name="md_theme_secondaryContainer">#FF7B2CBF</color>
+    <color name="md_theme_onSecondaryContainer">#FFFFFFFF</color>
+    <color name="md_theme_tertiary">#FF00FFFF</color>
+    <color name="md_theme_onTertiary">#FF000000</color>
+    <color name="md_theme_tertiaryContainer">#FF00CCCC</color>
+    <color name="md_theme_onTertiaryContainer">#FF000000</color>
+    <color name="md_theme_error">#FFFFB4AB</color>
+    <color name="md_theme_onError">#FF690005</color>
+    <color name="md_theme_errorContainer">#FF93000A</color>
+    <color name="md_theme_onErrorContainer">#FFFFB4AB</color>
+    <color name="md_theme_background">#FF0F0F0F</color>
+    <color name="md_theme_onBackground">#FFE0E0E0</color>
+    <color name="md_theme_surface">#FF1E1E1E</color>
+    <color name="md_theme_onSurface">#FFE0E0E0</color>
+    <color name="md_theme_surfaceVariant">#FF2A2A2A</color>
+    <color name="md_theme_onSurfaceVariant">#FFB3B3B3</color>
+    <color name="md_theme_surfaceTint">#FF00FFFF</color>
+    <color name="md_theme_inverseSurface">#FFE0E0E0</color>
+    <color name="md_theme_inverseOnSurface">#FF0F0F0F</color>
+    <color name="md_theme_inversePrimary">#FF00FFFF</color>
+    <color name="md_theme_surface1">#FF1E1E1E</color>
+    <color name="md_theme_surface2">#FF2A2A2A</color>
+    <color name="md_theme_surface3">#FF2D2D2D</color>
+    <color name="md_theme_surface4">#FF2D2D2D</color>
+    <color name="md_theme_surface5">#FF2D2D2D</color>
+
+    <!-- Legacy colors for compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
